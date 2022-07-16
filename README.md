@@ -8,4 +8,5 @@ I will try to gradually add details on documentation.
 
 Schematics is as follows. Details on ESP32 pin assignment can be obtained in codes, pin order might differs on different type of ESP32, please refer to particular esp32 manufacturer.
 
-![C-LAMP_SCH-001](https://user-images.githubusercontent.com/25924805/179353931-7be995e6-fbd6-4ac7-8dd9-19baa80ba5e1.png)
+![C-LAMP_SCH-001](https://user-images.githubusercontent.com/25924805/179355444-67883ce7-c85f-4b65-9272-9d867f7a8e2c.png)
+
